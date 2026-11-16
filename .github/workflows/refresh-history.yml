@@ -1,0 +1,23 @@
+name: Refresh CricPulse source data
+on:
+  schedule:
+    - cron: '35 2 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Attempt ICC fixture refresh
+        run: python scripts/fetch_icc_fixtures.py || echo "ICC parser did not find supported data; preserving existing fixtures."
+      - name: Commit changes if any
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add data/fixtures.json
+          git diff --cached --quiet || (git commit -m "Refresh sourced fixture data" && git push)
