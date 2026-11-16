@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-11-16T22:03:00+06:00",
+  "updated_at": "2026-11-16T23:20:00+06:00",
   "reports": [
     {
       "id": "ban-sa-1st-test-2026-day2",
       "fixture_id": "icc-ban-sa-2026-test-1",
-      "title": "Bangladesh vs South Africa · 1st Test · Day 2",
+      "title": "South Africa vs Bangladesh · 1st Test · Day 2",
       "competition": "Bangladesh tour of South Africa, 2026",
       "format": "Test",
       "venue": "The Wanderers Stadium, Johannesburg",
       "status": "Day 2 stumps · 16 November 2026",
-      "verified_at": "2026-11-16T22:03:00+06:00",
+      "verified_at": "2026-11-16T23:20:00+06:00",
       "score": {
         "bangladesh_first_innings": {
           "runs": 400,
@@ -24,77 +24,276 @@
         "trail_runs": 113,
         "note": "South Africa ended Day 2 on 287/4, 113 runs behind Bangladesh's first-innings total."
       },
+      "scorecards": {
+        "bangladesh_batting": [
+          [
+            "Mahfijul Islam",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0.00"
+          ],
+          [
+            "Tanzid Hasan Tamim",
+            "67",
+            "108",
+            "12",
+            "0",
+            "62.04"
+          ],
+          [
+            "Mominul Haque",
+            "0",
+            "7",
+            "0",
+            "0",
+            "0.00"
+          ],
+          [
+            "Najmul Hossain Shanto",
+            "12",
+            "23",
+            "2",
+            "0",
+            "52.17"
+          ],
+          [
+            "Towhid Hridoy",
+            "137",
+            "227",
+            "14",
+            "1",
+            "60.35"
+          ],
+          [
+            "Mushfiqur Rahim",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0.00"
+          ],
+          [
+            "Litton Das",
+            "120",
+            "179",
+            "14",
+            "1",
+            "67.04"
+          ]
+        ],
+        "bangladesh_bowling": [
+          [
+            "Hasan Mahmud",
+            "3",
+            "62",
+            "3",
+            "Data not available"
+          ],
+          [
+            "Mominul Haque",
+            "1",
+            "28",
+            "1",
+            "Figures incomplete"
+          ],
+          [
+            "Other bowlers",
+            "Data unavailable",
+            "Data unavailable",
+            "Data unavailable",
+            "Complete bowling card not independently verified"
+          ]
+        ],
+        "south_africa_batting": [
+          [
+            "Aiden Markram",
+            "4",
+            "8",
+            "1",
+            "0",
+            "50.00"
+          ],
+          [
+            "Marques Ackerman",
+            "157",
+            "164",
+            "21",
+            "1",
+            "95.73"
+          ],
+          [
+            "Zubayr Hamza",
+            "83",
+            "129",
+            "12",
+            "0",
+            "64.34"
+          ],
+          [
+            "Temba Bavuma",
+            "19*",
+            "Data unavailable",
+            "Data unavailable",
+            "Data unavailable",
+            "Not out"
+          ],
+          [
+            "Ryan Rickelton",
+            "7*",
+            "Data unavailable",
+            "Data unavailable",
+            "Data unavailable",
+            "Not out"
+          ]
+        ],
+        "south_africa_bowling": [
+          [
+            "Kagiso Rabada",
+            "5",
+            "70",
+            "5",
+            "3.00"
+          ],
+          [
+            "Dane Paterson",
+            "4",
+            "92",
+            "4",
+            "Figures from Bangladesh innings"
+          ],
+          [
+            "Marco Jansen",
+            "1",
+            "83",
+            "1",
+            "Figures incomplete"
+          ],
+          [
+            "Other bowlers",
+            "Data unavailable",
+            "Data unavailable",
+            "Data unavailable",
+            "Full card not included"
+          ]
+        ],
+        "note": "Only player figures corroborated by the cited score reports are displayed. Asterisks indicate not out. Some batting/bowling columns are intentionally marked unavailable rather than inferred."
+      },
       "performances": [
         {
           "player": "Towhid Hridoy",
           "team": "Bangladesh",
-          "figures": "137 runs",
-          "note": "Anchored Bangladesh's recovery after the top order fell to 22/3."
+          "figures": "137 (227)",
+          "note": "Top-scored; rebuilt after Bangladesh slipped to 22/3."
         },
         {
           "player": "Litton Das",
           "team": "Bangladesh",
-          "figures": "120 runs",
-          "note": "Shared a 206-run sixth-wicket partnership with Hridoy."
+          "figures": "120 (179)",
+          "note": "Eighth Test hundred; part of the 206-run sixth-wicket stand."
         },
         {
           "player": "Kagiso Rabada",
           "team": "South Africa",
           "figures": "5/70",
-          "note": "Took five wickets in Bangladesh's first innings."
+          "note": "Destroyed Bangladesh's top order early."
         },
         {
           "player": "Dane Paterson",
           "team": "South Africa",
           "figures": "4/92",
-          "note": "Removed four batters as Bangladesh were dismissed for 400."
+          "note": "Claimed Bangladesh's final four wickets on Day 2 morning."
         },
         {
           "player": "Marques Ackerman",
           "team": "South Africa",
-          "figures": "157 off 164 balls",
-          "note": "Scored his maiden Test century."
+          "figures": "157 (164)",
+          "note": "Maiden Test century; attacked spin and changed the momentum."
         },
         {
           "player": "Zubayr Hamza",
           "team": "South Africa",
-          "figures": "83 off 129 balls",
-          "note": "Built a 202-run second-wicket stand with Ackerman."
+          "figures": "83 (129)",
+          "note": "Shared a 202-run second-wicket stand with Ackerman."
         },
         {
           "player": "Hasan Mahmud",
           "team": "Bangladesh",
           "figures": "3/62",
-          "note": "Led Bangladesh's wicket-taking at the close of Day 2."
+          "note": "Removed Markram, Ackerman and Breetzke according to the Day 2 report."
         }
       ],
+      "pitch": {
+        "summary": "Pre-match assessment: pace and bounce, with a generally good batting surface. Ackerman later described it as a good wicket to bat on and said there was not much turn on offer.",
+        "pace": "Early seam, carry and bounce were expected; Rabada and Paterson exploited the new ball.",
+        "spin": "Pre-match preview expected limited early spin. Ackerman's post-day comments also indicated little turn was available while he batted.",
+        "venue_stats": "One preview lists 44 Test matches at the venue: average first innings 314.2, second innings 271.84, third innings 254.39 and fourth innings 204.57; pacers accounted for about 82.2% of wickets in that dataset.",
+        "caveat": "These are historical venue figures from a third-party preview, not a measured reading of the current strip."
+      },
+      "form": {
+        "south_africa": "A third-party pre-match form snapshot lists South Africa's last five Tests as W-W-L-W-W.",
+        "bangladesh": "The same snapshot lists Bangladesh's last five Tests as D-L-D-L-W.",
+        "caveat": "Form sequence is a third-party summary and has not been independently reconciled against official scorecards."
+      },
+      "weather": {
+        "current": "No verified live or Day 3 weather observation is available in this report.",
+        "pre_match": "A pre-match preview flagged possible afternoon thunderstorms during the Test window. This is an old forecast, not a current forecast."
+      },
       "analysis": {
-        "bangladesh": "400 is a strong first-innings total after a precarious 22/3 start. Hridoy and Litton's 206-run stand was the defining partnership. Bangladesh's bowlers then struggled to contain the scoring once Ackerman and Hamza settled.",
-        "south_africa": "South Africa's reply was driven by Ackerman and Hamza, whose 202-run partnership shifted the momentum. At 287/4 they remained 113 behind at stumps, so the innings was competitive but not yet ahead.",
-        "tactical": "Bangladesh's first priority on Day 3 is to break the remaining partnerships quickly and keep the deficit intact. They need disciplined lines and sustained pressure rather than predictable short-ball attacks. South Africa will look to convert this platform into a first-innings lead.",
-        "assessment": "Competitive Test with South Africa holding the momentum at Day 2 stumps, while Bangladesh still have a 113-run lead. The next session is pivotal. No win probability is assigned because this project does not yet have a validated predictive model."
+        "bangladesh": "400 is a substantial first-innings platform after the top order fell to 22/3. Hridoy and Litton's 206-run stand was the innings-defining recovery. The concern is the scoring rate conceded after South Africa's first wicket: Ackerman and Hamza scored quickly and neutralised the initial pressure.",
+        "south_africa": "South Africa have recovered strongly from 5/1. At 287/4 they are still 113 behind, but have six wickets remaining and the scoring rate has been high. The first priority is to erase the deficit without losing a cluster of wickets.",
+        "tactical": "Bangladesh: attack the top of off with disciplined pace, vary the length rather than feeding easy width, and make Bavuma/Rickelton earn singles. Use spin as a control option, not on the assumption that the pitch is turning sharply. South Africa: preserve wickets, rotate strike against the seamers, and target loose deliveries; once level, build a meaningful lead rather than forcing every scoring option.",
+        "assessment": "Momentum tilted towards South Africa late on Day 2, but Bangladesh retain the scoreboard advantage. The first hour of Day 3 is the key phase. This is a qualitative match-state assessment, not a win-probability model."
       },
       "data_limitations": [
-        "This is a Day 2 stumps snapshot, not a live ball-by-ball feed.",
-        "A full batting and bowling scorecard is not stored in this report.",
-        "Venue averages, pitch measurements and historical batter-versus-bowler matchups are not included.",
-        "No weather or injury claims are made."
+        "This is a Day 2 close-of-play snapshot, not an automatic live ball-by-ball feed.",
+        "Some scorecard fields and complete bowling figures remain unavailable or unverified.",
+        "Pitch comments and venue averages combine pre-match previews and third-party historical data.",
+        "No current weather observation, injury update, or verified Day 3 forecast is included.",
+        "Recent form is a third-party sequence, not a fully audited match-by-match dataset.",
+        "Simulation below is hypothetical and does not predict the actual result."
       ],
       "sources": [
         {
-          "name": "Reuters",
+          "name": "Reuters · Day 2 report",
           "url": "https://www.reuters.com/sports/cricket/das-hits-century-before-paterson-wraps-up-bangladesh-innings-2026-11-16/",
-          "note": "Day 2 score, Ackerman century, Hamza partnership and bowling figures."
+          "note": "287/4, 400, Ackerman 157, Hamza 83, 202-run stand, day-end status."
         },
         {
-          "name": "Dawn / Reuters",
-          "url": "https://www.dawn.com/news/2044854",
-          "note": "Day 1 Hridoy 137 and the 206-run sixth-wicket partnership."
+          "name": "IOL · Day 2 report",
+          "url": "https://iol.co.za/sport/cricket/proteas/2026-11-16-i-wanted-to-take-the-dog-home-says-proteas-star-marques-ackerman-after-maiden-test-ton/",
+          "note": "Ackerman's comments on the pitch, 3/62 for Hasan Mahmud and match summary."
         },
         {
-          "name": "BSS",
-          "url": "https://www.bssnews.net/sports/446524",
-          "note": "Bangladesh's 400 and South Africa's innings progress."
+          "name": "ICC · Day 1 report",
+          "url": "https://www.icc-cricket.com/tournaments/world-test-championship/news/hridoy-das-lead-bangladesh-fightback-after-rabada-five-for",
+          "note": "Bangladesh recovery, Hridoy and Litton partnership, Rabada's five-for."
+        },
+        {
+          "name": "Dawn / Reuters · Bangladesh innings",
+          "url": "https://www.dawn.com/news/2044854/hridoy-ton-lifts-bangladesh-to-327-6-against-sa-on-first-day",
+          "note": "Day 1 batting scorecard and Rabada/Jansen figures."
+        },
+        {
+          "name": "Cricbuzz · Match centre",
+          "url": "https://m.cricbuzz.com/live-cricket-scorecard/147953/rsa-vs-ban-1st-test-bangladesh-tour-of-south-africa-2026",
+          "note": "Match centre, venue and scorecard reference."
+        },
+        {
+          "name": "Cricbuzz · Venue preview",
+          "url": "https://www.cricbuzz.com/cricket-news/140903/gamblers-ground-awaits-south-africa-bangladesh",
+          "note": "Pre-match pitch and conditions preview."
+        },
+        {
+          "name": "CREX · Pitch and weather preview",
+          "url": "https://crex.com/cricket-news/wanderers-stadium-pitch-report-johannesburg-weather-report-for-ban-vs-sa-1st-test-2026-6af85b50525603a2aa21caad",
+          "note": "Historical venue figures and pre-match weather forecast."
+        },
+        {
+          "name": "StatZ · Venue and form snapshot",
+          "url": "https://statz.ai/cricket/test/fixtures/71034/south-africa-vs-bangladesh/venue",
+          "note": "Third-party recent-form sequences and venue summary."
         }
       ]
     }
