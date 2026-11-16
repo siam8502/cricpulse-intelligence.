@@ -1,5 +1,480 @@
 {
-  "updated_at": "2026-11-16",
-  "source": "ICC fixtures listing snapshot; verify current schedule at source",
-  "fixtures": []
+  "updated_at": "2026-11-16T16:00:00+06:00",
+  "source": "ICC official fixtures listing snapshot captured 2026-11-16; recheck source before relying on schedule",
+  "coverage_note": "Fixture-only snapshot. Times copied as displayed by ICC; timezone unconfirmed. Pitch, venue-history, player and tactical analysis are unavailable until separately sourced.",
+  "fixtures": [
+    {
+      "id": "icc-afg-zim-uae-2026-test-2",
+      "competition": "Afghanistan and Zimbabwe tour of UAE, 2026 - 2nd Test",
+      "format": "Test",
+      "gender": "men",
+      "teams": [
+        "Afghanistan",
+        "Zimbabwe"
+      ],
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "start_time": null,
+      "schedule_date": "2026-11-13",
+      "schedule_time_label": "In progress on 16 Nov listing",
+      "schedule_timezone": "Not specified in captured ICC listing; confirm venue-local time before conversion",
+      "status": "ongoing",
+      "source_urls": [
+        "https://www.icc-cricket.com/fixtures-results?appview=true"
+      ],
+      "last_verified": "2026-11-16T16:00:00+06:00",
+      "pitch": {
+        "summary": null,
+        "pace": null,
+        "spin": null,
+        "source_urls": []
+      },
+      "ground": {
+        "sample_size": null,
+        "average_first_innings": null,
+        "bat_first_win_pct": null,
+        "source_urls": []
+      },
+      "team_form": [],
+      "player_matchups": [],
+      "tactical_plan": {
+        "batting": [],
+        "bowling": [],
+        "caveats": [
+          "No match-specific tactical plan has been published yet."
+        ]
+      },
+      "assessment": null,
+      "data_quality": "fixture_verified_analysis_pending"
+    },
+    {
+      "id": "icc-ban-sa-2026-test-1",
+      "competition": "Bangladesh tour of South Africa, 2026 - 1st Test",
+      "format": "Test",
+      "gender": "men",
+      "teams": [
+        "South Africa",
+        "Bangladesh"
+      ],
+      "venue": "The Wanderers Stadium, Johannesburg",
+      "start_time": null,
+      "schedule_date": "2026-11-15",
+      "schedule_time_label": "In progress on 16 Nov listing",
+      "schedule_timezone": "Not specified in captured ICC listing; confirm venue-local time before conversion",
+      "status": "ongoing",
+      "source_urls": [
+        "https://www.icc-cricket.com/fixtures-results?appview=true"
+      ],
+      "last_verified": "2026-11-16T16:00:00+06:00",
+      "pitch": {
+        "summary": null,
+        "pace": null,
+        "spin": null,
+        "source_urls": []
+      },
+      "ground": {
+        "sample_size": null,
+        "average_first_innings": null,
+        "bat_first_win_pct": null,
+        "source_urls": []
+      },
+      "team_form": [],
+      "player_matchups": [],
+      "tactical_plan": {
+        "batting": [],
+        "bowling": [],
+        "caveats": [
+          "No match-specific tactical plan has been published yet."
+        ]
+      },
+      "assessment": null,
+      "data_quality": "fixture_verified_analysis_pending"
+    },
+    {
+      "id": "icc-pak-sl-2026-test-2",
+      "competition": "Sri Lanka tour of Pakistan, 2026 - 2nd Test",
+      "format": "Test",
+      "gender": "men",
+      "teams": [
+        "Pakistan",
+        "Sri Lanka"
+      ],
+      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
+      "start_time": null,
+      "schedule_date": "2026-11-17",
+      "schedule_time_label": "04:30 (timezone unconfirmed)",
+      "schedule_timezone": "Not specified in captured ICC listing; confirm venue-local time before conversion",
+      "status": "upcoming",
+      "source_urls": [
+        "https://www.icc-cricket.com/fixtures-results?appview=true"
+      ],
+      "last_verified": "2026-11-16T16:00:00+06:00",
+      "pitch": {
+        "summary": null,
+        "pace": null,
+        "spin": null,
+        "source_urls": []
+      },
+      "ground": {
+        "sample_size": null,
+        "average_first_innings": null,
+        "bat_first_win_pct": null,
+        "source_urls": []
+      },
+      "team_form": [],
+      "player_matchups": [],
+      "tactical_plan": {
+        "batting": [],
+        "bowling": [],
+        "caveats": [
+          "No match-specific tactical plan has been published yet."
+        ]
+      },
+      "assessment": null,
+      "data_quality": "fixture_verified_analysis_pending"
+    },
+    {
+      "id": "icc-flk-crc-2026-t20i-5",
+      "competition": "Costa Rica tour of Falkland Islands, 2026 - 5th T20I",
+      "format": "T20I",
+      "gender": "men",
+      "teams": [
+        "Falkland Islands",
+        "Costa Rica"
+      ],
+      "venue": "Platinum Oval, Falkland Islands",
+      "start_time": null,
+      "schedule_date": "2026-11-17",
+      "schedule_time_label": "17:00 (timezone unconfirmed)",
+      "schedule_timezone": "Not specified in captured ICC listing; confirm venue-local time before conversion",
+      "status": "upcoming",
+      "source_urls": [
+        "https://www.icc-cricket.com/fixtures-results?appview=true"
+      ],
+      "last_verified": "2026-11-16T16:00:00+06:00",
+      "pitch": {
+        "summary": null,
+        "pace": null,
+        "spin": null,
+        "source_urls": []
+      },
+      "ground": {
+        "sample_size": null,
+        "average_first_innings": null,
+        "bat_first_win_pct": null,
+        "source_urls": []
+      },
+      "team_form": [],
+      "player_matchups": [],
+      "tactical_plan": {
+        "batting": [],
+        "bowling": [],
+        "caveats": [
+          "No match-specific tactical plan has been published yet."
+        ]
+      },
+      "assessment": null,
+      "data_quality": "fixture_verified_analysis_pending"
+    },
+    {
+      "id": "icc-aus-eng-2026-odi-3",
+      "competition": "England tour of Australia, 2026 - 3rd ODI",
+      "format": "ODI",
+      "gender": "men",
+      "teams": [
+        "Australia",
+        "England"
+      ],
+      "venue": "Bellerive Oval, Hobart",
+      "start_time": null,
+      "schedule_date": "2026-11-18",
+      "schedule_time_label": "03:30 (timezone unconfirmed)",
+      "schedule_timezone": "Not specified in captured ICC listing; confirm venue-local time before conversion",
+      "status": "upcoming",
+      "source_urls": [
+        "https://www.icc-cricket.com/fixtures-results?appview=true"
+      ],
+      "last_verified": "2026-11-16T16:00:00+06:00",
+      "pitch": {
+        "summary": null,
+        "pace": null,
+        "spin": null,
+        "source_urls": []
+      },
+      "ground": {
+        "sample_size": null,
+        "average_first_innings": null,
+        "bat_first_win_pct": null,
+        "source_urls": []
+      },
+      "team_form": [],
+      "player_matchups": [],
+      "tactical_plan": {
+        "batting": [],
+        "bowling": [],
+        "caveats": [
+          "No match-specific tactical plan has been published yet."
+        ]
+      },
+      "assessment": null,
+      "data_quality": "fixture_verified_analysis_pending"
+    },
+    {
+      "id": "icc-flk-crc-2026-t20i-6",
+      "competition": "Costa Rica tour of Falkland Islands, 2026 - 6th T20I",
+      "format": "T20I",
+      "gender": "men",
+      "teams": [
+        "Falkland Islands",
+        "Costa Rica"
+      ],
+      "venue": "Platinum Oval, Falkland Islands",
+      "start_time": null,
+      "schedule_date": "2026-11-18",
+      "schedule_time_label": "17:00 (timezone unconfirmed)",
+      "schedule_timezone": "Not specified in captured ICC listing; confirm venue-local time before conversion",
+      "status": "upcoming",
+      "source_urls": [
+        "https://www.icc-cricket.com/fixtures-results?appview=true"
+      ],
+      "last_verified": "2026-11-16T16:00:00+06:00",
+      "pitch": {
+        "summary": null,
+        "pace": null,
+        "spin": null,
+        "source_urls": []
+      },
+      "ground": {
+        "sample_size": null,
+        "average_first_innings": null,
+        "bat_first_win_pct": null,
+        "source_urls": []
+      },
+      "team_form": [],
+      "player_matchups": [],
+      "tactical_plan": {
+        "batting": [],
+        "bowling": [],
+        "caveats": [
+          "No match-specific tactical plan has been published yet."
+        ]
+      },
+      "assessment": null,
+      "data_quality": "fixture_verified_analysis_pending"
+    },
+    {
+      "id": "icc-nz-ind-2026-test-1",
+      "competition": "India tour of New Zealand, 2026 - 1st Test",
+      "format": "Test",
+      "gender": "men",
+      "teams": [
+        "New Zealand",
+        "India"
+      ],
+      "venue": "Cello Basin Reserve, Wellington",
+      "start_time": null,
+      "schedule_date": "2026-11-18",
+      "schedule_time_label": "22:00 (timezone unconfirmed)",
+      "schedule_timezone": "Not specified in captured ICC listing; confirm venue-local time before conversion",
+      "status": "upcoming",
+      "source_urls": [
+        "https://www.icc-cricket.com/fixtures-results?appview=true"
+      ],
+      "last_verified": "2026-11-16T16:00:00+06:00",
+      "pitch": {
+        "summary": null,
+        "pace": null,
+        "spin": null,
+        "source_urls": []
+      },
+      "ground": {
+        "sample_size": null,
+        "average_first_innings": null,
+        "bat_first_win_pct": null,
+        "source_urls": []
+      },
+      "team_form": [],
+      "player_matchups": [],
+      "tactical_plan": {
+        "batting": [],
+        "bowling": [],
+        "caveats": [
+          "No match-specific tactical plan has been published yet."
+        ]
+      },
+      "assessment": null,
+      "data_quality": "fixture_verified_analysis_pending"
+    },
+    {
+      "id": "icc-flk-crc-2026-t20i-7",
+      "competition": "Costa Rica tour of Falkland Islands, 2026 - 7th T20I",
+      "format": "T20I",
+      "gender": "men",
+      "teams": [
+        "Falkland Islands",
+        "Costa Rica"
+      ],
+      "venue": "Platinum Oval, Falkland Islands",
+      "start_time": null,
+      "schedule_date": "2026-11-19",
+      "schedule_time_label": "13:00 (timezone unconfirmed)",
+      "schedule_timezone": "Not specified in captured ICC listing; confirm venue-local time before conversion",
+      "status": "upcoming",
+      "source_urls": [
+        "https://www.icc-cricket.com/fixtures-results?appview=true"
+      ],
+      "last_verified": "2026-11-16T16:00:00+06:00",
+      "pitch": {
+        "summary": null,
+        "pace": null,
+        "spin": null,
+        "source_urls": []
+      },
+      "ground": {
+        "sample_size": null,
+        "average_first_innings": null,
+        "bat_first_win_pct": null,
+        "source_urls": []
+      },
+      "team_form": [],
+      "player_matchups": [],
+      "tactical_plan": {
+        "batting": [],
+        "bowling": [],
+        "caveats": [
+          "No match-specific tactical plan has been published yet."
+        ]
+      },
+      "assessment": null,
+      "data_quality": "fixture_verified_analysis_pending"
+    },
+    {
+      "id": "icc-flk-crc-2026-t20i-8",
+      "competition": "Costa Rica tour of Falkland Islands, 2026 - 8th T20I",
+      "format": "T20I",
+      "gender": "men",
+      "teams": [
+        "Falkland Islands",
+        "Costa Rica"
+      ],
+      "venue": "Platinum Oval, Falkland Islands",
+      "start_time": null,
+      "schedule_date": "2026-11-19",
+      "schedule_time_label": "17:00 (timezone unconfirmed)",
+      "schedule_timezone": "Not specified in captured ICC listing; confirm venue-local time before conversion",
+      "status": "upcoming",
+      "source_urls": [
+        "https://www.icc-cricket.com/fixtures-results?appview=true"
+      ],
+      "last_verified": "2026-11-16T16:00:00+06:00",
+      "pitch": {
+        "summary": null,
+        "pace": null,
+        "spin": null,
+        "source_urls": []
+      },
+      "ground": {
+        "sample_size": null,
+        "average_first_innings": null,
+        "bat_first_win_pct": null,
+        "source_urls": []
+      },
+      "team_form": [],
+      "player_matchups": [],
+      "tactical_plan": {
+        "batting": [],
+        "bowling": [],
+        "caveats": [
+          "No match-specific tactical plan has been published yet."
+        ]
+      },
+      "assessment": null,
+      "data_quality": "fixture_verified_analysis_pending"
+    },
+    {
+      "id": "icc-aus-eng-2026-t20i-1",
+      "competition": "England tour of Australia, 2026 - 1st T20I",
+      "format": "T20I",
+      "gender": "men",
+      "teams": [
+        "Australia",
+        "England"
+      ],
+      "venue": "Melbourne Cricket Ground (MCG), Melbourne",
+      "start_time": null,
+      "schedule_date": "2026-11-21",
+      "schedule_time_label": "08:15 (timezone unconfirmed)",
+      "schedule_timezone": "Not specified in captured ICC listing; confirm venue-local time before conversion",
+      "status": "upcoming",
+      "source_urls": [
+        "https://www.icc-cricket.com/fixtures-results?appview=true"
+      ],
+      "last_verified": "2026-11-16T16:00:00+06:00",
+      "pitch": {
+        "summary": null,
+        "pace": null,
+        "spin": null,
+        "source_urls": []
+      },
+      "ground": {
+        "sample_size": null,
+        "average_first_innings": null,
+        "bat_first_win_pct": null,
+        "source_urls": []
+      },
+      "team_form": [],
+      "player_matchups": [],
+      "tactical_plan": {
+        "batting": [],
+        "bowling": [],
+        "caveats": [
+          "No match-specific tactical plan has been published yet."
+        ]
+      },
+      "assessment": null,
+      "data_quality": "fixture_verified_analysis_pending"
+    },
+    {
+      "id": "icc-ban-sa-2026-test-2",
+      "competition": "Bangladesh tour of South Africa, 2026 - 2nd Test",
+      "format": "Test",
+      "gender": "men",
+      "teams": [
+        "South Africa",
+        "Bangladesh"
+      ],
+      "venue": "SuperSport Park, Centurion",
+      "start_time": null,
+      "schedule_date": "2026-11-23",
+      "schedule_time_label": "08:00 (timezone unconfirmed)",
+      "schedule_timezone": "Not specified in captured ICC listing; confirm venue-local time before conversion",
+      "status": "upcoming",
+      "source_urls": [
+        "https://www.icc-cricket.com/fixtures-results?appview=true"
+      ],
+      "last_verified": "2026-11-16T16:00:00+06:00",
+      "pitch": {
+        "summary": null,
+        "pace": null,
+        "spin": null,
+        "source_urls": []
+      },
+      "ground": {
+        "sample_size": null,
+        "average_first_innings": null,
+        "bat_first_win_pct": null,
+        "source_urls": []
+      },
+      "team_form": [],
+      "player_matchups": [],
+      "tactical_plan": {
+        "batting": [],
+        "bowling": [],
+        "caveats": [
+          "No match-specific tactical plan has been published yet."
+        ]
+      },
+      "assessment": null,
+      "data_quality": "fixture_verified_analysis_pending"
+    }
+  ]
 }
