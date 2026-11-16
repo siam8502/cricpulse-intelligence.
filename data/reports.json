@@ -1,4 +1,102 @@
 {
-  "updated_at": null,
-  "reports": []
+  "updated_at": "2026-11-16T22:03:00+06:00",
+  "reports": [
+    {
+      "id": "ban-sa-1st-test-2026-day2",
+      "fixture_id": "icc-ban-sa-2026-test-1",
+      "title": "Bangladesh vs South Africa · 1st Test · Day 2",
+      "competition": "Bangladesh tour of South Africa, 2026",
+      "format": "Test",
+      "venue": "The Wanderers Stadium, Johannesburg",
+      "status": "Day 2 stumps · 16 November 2026",
+      "verified_at": "2026-11-16T22:03:00+06:00",
+      "score": {
+        "bangladesh_first_innings": {
+          "runs": 400,
+          "wickets": 10,
+          "overs": "101.2"
+        },
+        "south_africa_first_innings": {
+          "runs": 287,
+          "wickets": 4,
+          "overs": "62"
+        },
+        "trail_runs": 113,
+        "note": "South Africa ended Day 2 on 287/4, 113 runs behind Bangladesh's first-innings total."
+      },
+      "performances": [
+        {
+          "player": "Towhid Hridoy",
+          "team": "Bangladesh",
+          "figures": "137 runs",
+          "note": "Anchored Bangladesh's recovery after the top order fell to 22/3."
+        },
+        {
+          "player": "Litton Das",
+          "team": "Bangladesh",
+          "figures": "120 runs",
+          "note": "Shared a 206-run sixth-wicket partnership with Hridoy."
+        },
+        {
+          "player": "Kagiso Rabada",
+          "team": "South Africa",
+          "figures": "5/70",
+          "note": "Took five wickets in Bangladesh's first innings."
+        },
+        {
+          "player": "Dane Paterson",
+          "team": "South Africa",
+          "figures": "4/92",
+          "note": "Removed four batters as Bangladesh were dismissed for 400."
+        },
+        {
+          "player": "Marques Ackerman",
+          "team": "South Africa",
+          "figures": "157 off 164 balls",
+          "note": "Scored his maiden Test century."
+        },
+        {
+          "player": "Zubayr Hamza",
+          "team": "South Africa",
+          "figures": "83 off 129 balls",
+          "note": "Built a 202-run second-wicket stand with Ackerman."
+        },
+        {
+          "player": "Hasan Mahmud",
+          "team": "Bangladesh",
+          "figures": "3/62",
+          "note": "Led Bangladesh's wicket-taking at the close of Day 2."
+        }
+      ],
+      "analysis": {
+        "bangladesh": "400 is a strong first-innings total after a precarious 22/3 start. Hridoy and Litton's 206-run stand was the defining partnership. Bangladesh's bowlers then struggled to contain the scoring once Ackerman and Hamza settled.",
+        "south_africa": "South Africa's reply was driven by Ackerman and Hamza, whose 202-run partnership shifted the momentum. At 287/4 they remained 113 behind at stumps, so the innings was competitive but not yet ahead.",
+        "tactical": "Bangladesh's first priority on Day 3 is to break the remaining partnerships quickly and keep the deficit intact. They need disciplined lines and sustained pressure rather than predictable short-ball attacks. South Africa will look to convert this platform into a first-innings lead.",
+        "assessment": "Competitive Test with South Africa holding the momentum at Day 2 stumps, while Bangladesh still have a 113-run lead. The next session is pivotal. No win probability is assigned because this project does not yet have a validated predictive model."
+      },
+      "data_limitations": [
+        "This is a Day 2 stumps snapshot, not a live ball-by-ball feed.",
+        "A full batting and bowling scorecard is not stored in this report.",
+        "Venue averages, pitch measurements and historical batter-versus-bowler matchups are not included.",
+        "No weather or injury claims are made."
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/sports/cricket/das-hits-century-before-paterson-wraps-up-bangladesh-innings-2026-11-16/",
+          "note": "Day 2 score, Ackerman century, Hamza partnership and bowling figures."
+        },
+        {
+          "name": "Dawn / Reuters",
+          "url": "https://www.dawn.com/news/2044854",
+          "note": "Day 1 Hridoy 137 and the 206-run sixth-wicket partnership."
+        },
+        {
+          "name": "BSS",
+          "url": "https://www.bssnews.net/sports/446524",
+          "note": "Bangladesh's 400 and South Africa's innings progress."
+        }
+      ]
+    }
+  ]
 }
