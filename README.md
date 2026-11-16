@@ -6,3 +6,7 @@ A mobile-first cricket intelligence and match-analysis project. Fixture informat
 - ICC fixtures: https://www.icc-cricket.com/fixtures-results?appview=true
 - Cricbuzz schedule cross-check: https://www.cricbuzz.com/cricket-schedule/series
 - Cricsheet historical data: https://cricsheet.org/
+
+
+## Hosting
+GitHub Pages deployment is configured through `.github/workflows/deploy.yml`. The public site is available after the Pages workflow succeeds.
